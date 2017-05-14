@@ -24,6 +24,8 @@ $border-radius: 999px;
 .Icon {
   margin-left: -1 * spacing();
   margin-right: spacing(tight);
+  width: 20;
+  height: 20;
   color: color(ink, lightest);
 }
 
