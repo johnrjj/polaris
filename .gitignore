@@ -4,10 +4,10 @@ node_modules
 /build-intermediate
 /types
 /index.*
-/styles.css
+
 /styles.scss
 /styles
-!styles.css
+
 !styles.scss
 !index.*
 /embedded.*
