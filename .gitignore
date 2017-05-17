@@ -7,6 +7,9 @@ node_modules
 /styles.css
 /styles.scss
 /styles
+!styles.css
+!styles.scss
+!index.*
 /embedded.*
 /sandbox
 .DS_Store
