@@ -40,7 +40,6 @@
     "playground": "webpack-dev-server --config playground/webpack.config.js --content-base playground/ --hot --inline"
   },
   "devDependencies": {
-    "@shopify/js-uploader": "git+ssh://git@github.com/Shopify/js-uploader.git",
     "@types/enzyme": "^2.7.7",
     "@types/jest": "^19.2.2",
     "@types/react-hot-loader": "^3.0.1",
