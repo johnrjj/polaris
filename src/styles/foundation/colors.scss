@@ -87,11 +87,18 @@ $color-palette-data: (
   ),
 
   indigo: (
-    lighter: #f4f5fa,
-    light: #b3bcf5,
-    base: #5c6ac4,
-    dark: #202e78,
-    darker: #000639,
+    lightest: #b9d8ab,
+    lighter: #96c482,
+    light: #6aac4d,
+    base: #509e2f,
+    dark: #448627,
+    darker: #305e1c,
+    darkest: #203f12,
+    // lighter: #f4f5fa,
+    // light: #b3bcf5,
+    // base: #5c6ac4,
+    // dark: #202e78,
+    // darker: #000639,
     text: #3e4155
   )
 );
